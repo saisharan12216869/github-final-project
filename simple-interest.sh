@@ -6,6 +6,7 @@
 # Addtional Authors:
 # saisharan12216869
 
+# minor typo fix
 
 # Input:
 # p, principal amount
